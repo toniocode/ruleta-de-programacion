@@ -1,0 +1,14 @@
+/Users/aramos/tonio-code/programming-exercises/c#/ej0002/bin/Debug/net9.0/ej0002
+/Users/aramos/tonio-code/programming-exercises/c#/ej0002/bin/Debug/net9.0/ej0002.deps.json
+/Users/aramos/tonio-code/programming-exercises/c#/ej0002/bin/Debug/net9.0/ej0002.runtimeconfig.json
+/Users/aramos/tonio-code/programming-exercises/c#/ej0002/bin/Debug/net9.0/ej0002.dll
+/Users/aramos/tonio-code/programming-exercises/c#/ej0002/bin/Debug/net9.0/ej0002.pdb
+/Users/aramos/tonio-code/programming-exercises/c#/ej0002/obj/Debug/net9.0/ej0002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aramos/tonio-code/programming-exercises/c#/ej0002/obj/Debug/net9.0/ej0002.AssemblyInfoInputs.cache
+/Users/aramos/tonio-code/programming-exercises/c#/ej0002/obj/Debug/net9.0/ej0002.AssemblyInfo.cs
+/Users/aramos/tonio-code/programming-exercises/c#/ej0002/obj/Debug/net9.0/ej0002.csproj.CoreCompileInputs.cache
+/Users/aramos/tonio-code/programming-exercises/c#/ej0002/obj/Debug/net9.0/ej0002.dll
+/Users/aramos/tonio-code/programming-exercises/c#/ej0002/obj/Debug/net9.0/refint/ej0002.dll
+/Users/aramos/tonio-code/programming-exercises/c#/ej0002/obj/Debug/net9.0/ej0002.pdb
+/Users/aramos/tonio-code/programming-exercises/c#/ej0002/obj/Debug/net9.0/ej0002.genruntimeconfig.cache
+/Users/aramos/tonio-code/programming-exercises/c#/ej0002/obj/Debug/net9.0/ref/ej0002.dll
