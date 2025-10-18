@@ -5,7 +5,7 @@
 
 <?php
     function palabraMasLarga($texto) {
-        $frase = preg_replace("/[^\p{L}\s]/u", "", $frase);
+        $texto = preg_replace("/[^\p{L}\s]/u", "", $texto);
         $texto = strtolower($texto);
         $palabras = explode(" ", $texto);
         $palabraMasLarga = "";
