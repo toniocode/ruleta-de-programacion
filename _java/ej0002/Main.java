@@ -11,7 +11,12 @@ public class Main {
         DateTimeFormatter formato = DateTimeFormatter.ofPattern("HH:mm:ss");
 
         while (true) {
+            // Limpiar consola en MacOS y Linux
             new ProcessBuilder("clear").inheritIO().start().waitFor();
+
+            // Limpiar consola en Windows
+            // new ProcessBuilder("cls").inheritIO().start().waitFor();
+
             LocalTime horaActual = LocalTime.now();
             System.out.print(horaActual.format(formato));
             Thread.sleep(1000);
