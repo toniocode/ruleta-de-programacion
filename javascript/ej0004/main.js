@@ -1,8 +1,8 @@
-// Determina si una cadena de texto es un panagrama 
+// Determina si una cadena de texto es un pangrama 
 // (contiene todas las letras del alfabeto al menos 
 // una vez)
 
-function esPanagrama(texto) {
+function esPangrama(texto) {
     texto = texto.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 
     const letras = new Set();
@@ -17,4 +17,4 @@ function esPanagrama(texto) {
 
 texto = "El veloz murciélago hindú comía feliz cardillo y kiwi. La cigüeña tocaba el saxofón detrás del palenque de paja.";
 
-console.log(esPanagrama(texto))
+console.log(esPangrama(texto))
