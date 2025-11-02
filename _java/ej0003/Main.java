@@ -21,6 +21,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Opción (piedra, papel, tijera): ");
         String opcionUsuario = scanner.nextLine();
+        scanner.close();
 
         if (!reglas.keySet().contains(opcionUsuario)) {
             System.out.println("Opción no válida.");
@@ -39,6 +40,5 @@ public class Main {
             System.out.println("Has perdido.");
         }
 
-        scanner.close();
     } 
 }
